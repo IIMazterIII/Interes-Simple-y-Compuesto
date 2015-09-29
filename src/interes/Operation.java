@@ -570,7 +570,7 @@ public class Operation {
         Ic = Cf - Ci;
 
         //System.out.println(decimal.format (Cf)); imprime sin texto
-        System.out.printf("cuando sauque el dinero sera :%.2f %n", Cf);
+        System.out.printf("cuando saque el dinero sera :%.2f %n", Cf);
 
         System.out.println("\nel intres compuesto es " + Ic);
         return Icompuesto;
